@@ -1,4 +1,4 @@
-# App-boilerplate
+# Webapp-boilerplate
 A base para aplicações full javascript back e front.
 
 ## Getting Started
