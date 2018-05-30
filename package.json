@@ -1,0 +1,23 @@
+{
+  "name": "app-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bonny5171/app-boilerplate.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "es6",
+    "nodejs",
+    "reactjs",
+    "webpack"
+  ],
+  "author": "iBonny",
+  "license": "ISC"
+}
