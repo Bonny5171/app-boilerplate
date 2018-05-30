@@ -1,13 +1,13 @@
 {
   "name": "app-boilerplate",
   "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
+  "description": "",  
   "repository": {
     "type": "git",
     "url": "https://github.com/Bonny5171/app-boilerplate.git"
   },
   "scripts": {
+    "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
